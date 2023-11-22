@@ -2,4 +2,4 @@ A shoe commerce  site to view different shoes and with different angles in devic
 
 Site built using react js, tailwindcss
 
-Deplayed at Netlify - https://nike-landing-clone.netlify.app
+Deployed at Netlify - https://nike-landing-clone.netlify.app
